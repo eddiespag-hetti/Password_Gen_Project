@@ -19,7 +19,7 @@ Create random unique passwords easily with this application!
 
 This web-application is easy to use on any device and at anytime. 
 
-Simply navigate to - https://eddiedpayne.github.io/Password_Gen_Project/
+Simply navigate to - https://eddiespag-hetti.github.io/Password_Gen_Project/
 
 ## Usage
 
